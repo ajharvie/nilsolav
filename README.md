@@ -3,4 +3,6 @@ A simple-to-build ortholinear keyboard named after a famous penguin. This keyboa
 
 ![Image of keyboard](https://github.com/ajharvie/nilsolav/blob/main/images/PXL_20210324_182517592~2.jpg)
 
-Build walkthrough coming soon!
+Coming soon:
+1) Build instructions
+2) Firmware with a more sensible keymap!
