@@ -3,7 +3,7 @@ A simple-to-build, low-profile, ortholinear keyboard named after a [famous pengu
 
 ![Image of keyboard](https://github.com/ajharvie/nilsolav/blob/main/images/PXL_20210324_182517592~2.jpg)
 
-[A pre-compiled firmware hex](nilsolav_default.hex)(nilsolav_dafult.hex) is provided for the default keymap ([shown here](nilsolav/keymaps/default/keymap.c)).
+[A pre-compiled firmware hex](nilsolav_default.hex) (nilsolav_default.hex) is provided for the default keymap ([shown here](nilsolav/keymaps/default/keymap.c)). QMK users who wish to build their own keymap can do so using the source code provided in the [firmware](firmware) folder.
 
 In the default keymap, double-tapping the numlock key toggles a layer where the numpad is transformed into a nav cluster.
 
