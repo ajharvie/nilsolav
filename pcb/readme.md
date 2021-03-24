@@ -1,4 +1,4 @@
-KiCad files and gerbers for the keyboard. If you just want to make the keyboard PCBs, you just need the .zip of gerbers/ If you're going to edit the pcb files, you'll need the following libraries:
+KiCad files and gerbers for the keyboard. If you just want to make the keyboard PCBs, you just need the .zip of gerbers. If you're going to edit the PCB files, you'll need the following libraries:
 
 ai03's MX footprint libary: https://github.com/ai03-2725/MX_Alps_Hybrid
 Keebio-parts: https://github.com/keebio/Keebio-Parts.pretty
