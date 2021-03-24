@@ -4,6 +4,7 @@ A simple-to-build, low-profile, ortholinear keyboard named after a [famous pengu
 ![Image of keyboard](https://github.com/ajharvie/nilsolav/blob/main/images/PXL_20210324_182517592~2.jpg)
 
 Parts needed:
+* PCB x1
 * Bottom plate x1 (I used 3 mm steel)
 * Top plate x1 (1.5 mm thick)
 * 8mm M2 standoffs x7
