@@ -19,4 +19,4 @@ Parts needed:
 * Your choice of MX switches x77
 * Keycaps
 
-Build guide coming soon!
+[A build guide is included here.](doc/buildguide.md)
