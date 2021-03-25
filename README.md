@@ -1,7 +1,7 @@
 # Nils Olav
 A simple-to-build, low-profile, ortholinear keyboard named after a [famous penguin.](https://en.wikipedia.org/wiki/Nils_Olav) This keyboard is based around the Elite-C v4. It features a left-sided numpad, (useful for design work), 2U spacebar, a cute little penguin, and as low a parts count as possible to make it easy for individuals to build with very simple soldering tools.
 
-![Image of keyboard](https://github.com/ajharvie/nilsolav/blob/main/images/PXL_20210324_182517592~2.jpg)
+![Image of keyboard](https://github.com/ajharvie/nilsolav/blob/main/doc/images/PXL_20210324_182517592~2.jpg)
 
 [A pre-compiled firmware hex](firmware/nilsolav_default.hex) (nilsolav_default.hex) is provided for the default keymap ([shown here](nilsolav/keymaps/default/keymap.c)). QMK users who wish to build their own keymap can do so using the source code provided in the [firmware](firmware) folder.
 
