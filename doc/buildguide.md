@@ -17,7 +17,7 @@ Parts you need to hand:
 
 The easiest way to solder the diodes on with an iron is to add solder to one of the pads, then with the iron still in contact with the molten solder, slide the diode into place. Then remove the iron. You can then solder the second terminal to the other pad. A bit of flux added to the pads before you start can help but is not necessary if you have decent flux-cored solder.
 
-3) Solder the Elite-C in place, flat onto the PCB, using the castellated holes, as pictured. This is done similarly to the PCB. Sparkfun has a nice tutorial [here](https://learn.sparkfun.com/tutorials/how-to-solder-castellated-mounting-holes/all) on how to do it.
+3) Solder the Elite-C in place, flat onto the PCB, using the castellated holes, as pictured. This is done similarly to the diodes. Sparkfun has a nice tutorial [here](https://learn.sparkfun.com/tutorials/how-to-solder-castellated-mounting-holes/all) on how to do it.
 
 ![Soldering controller](https://github.com/ajharvie/nilsolav/blob/main/doc/images/elite%20c.jpg)
 
