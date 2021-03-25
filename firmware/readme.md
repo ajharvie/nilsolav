@@ -1,4 +1,4 @@
-Firmware for the keyboard. [A pre-compiled firmware hex](nilsolav_default.hex)(nilsolav_default.hex) is provided for the default keymap ([shown here](nilsolav/keymaps/default/keymap.c)).
+Firmware for the keyboard. [A pre-compiled firmware hex](nilsolav_default.hex) (nilsolav_default.hex) is provided for the default keymap ([shown here](nilsolav/keymaps/default/keymap.c)).
 
 In the default keymap, double-tapping the numlock key toggles a layer where the numpad is transformed into a nav cluster.
 
