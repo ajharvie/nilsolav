@@ -1,5 +1,5 @@
 # Nils Olav
-A simple-to-build, low-profile, ortholinear keyboard named after a [famous penguin.](https://en.wikipedia.org/wiki/Nils_Olav) This keyboard is based around the Elite-C v4. It features a left-sided numpad, (useful for design work), 2U spacebar, and as low a parts count as possible to make it easy for individuals to build with very simple soldering tools.
+A simple-to-build, low-profile, ortholinear keyboard named after a famous penguin. This keyboard is based around the Elite-C v4. It features a left-sided numpad, (useful for design work), 2U spacebar, and as low a parts count as possible to make it easy for individuals to build with very simple soldering tools.
 
 Github repo with parts and build instructions: https://github.com/ajharvie/nilsolav
 
