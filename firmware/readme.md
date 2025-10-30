@@ -4,4 +4,5 @@ In the default keymap, double-tapping the numlock key toggles a layer where the 
 
 QMK users can copy the nilsolav directory into their qmk_firmware folder if they want to customise the keymap or compile themselves for any other reason. The correct file structure is then:
 
-../qmk_firmware/keyboards/nilsolav/..
+path/to/qmk_firmware/keyboards/nilsolav/
+
